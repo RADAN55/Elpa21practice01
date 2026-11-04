@@ -9,6 +9,7 @@ Interactive listening practice for English learners (grades 9–12), modeled on 
 - **Lesson 2 · Listen and Match the Sentence** — 4 items (Restaurant, In the car, Home and town, Trips). Students hear a sentence and tap the matching scene.
 - **Lesson 4 · Listen to a Conversation** — questions 1–10 across two conversations between students (a math assignment; a school garden). Two device voices, a highlighted transcript, multiple-choice questions read aloud.
 - **Lesson 5 · Listen to a Debate** — questions 1–8 across two student debates (a later school start time; a school-day phone ban), with multiple choice, check-all-that-apply and a graphic organizer to complete.
+- **Lesson 6 · Listen to the Student** — a classroom presentation on how Mississippi's state government is organized, with slides that change as the student speaks and classmates who ask questions; questions 1–5, including matching labels to the three branches.
 - **Lesson 3 · Listen for Information** — questions 1–10 across 4 pages (Lab tools, Liquids, Soil layers, Alaska and Hawaii). Students hear a short passage, then follow each direction by tapping a card and tapping where it goes.
 
 ## Supports
