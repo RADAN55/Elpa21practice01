@@ -13,6 +13,9 @@ Interactive listening practice for English learners (grades 9–12), modeled on 
 - **Lesson 7 · Listen to the Teacher** — two science lessons (how hurricanes form; how fireflies make light), questions 1–10 with multiple choice, check-all-that-apply and a picture choice.
 - **Lesson 3 · Listen for Information** — questions 1–10 across 4 pages (Lab tools, Liquids, Soil layers, Alaska and Hawaii). Students hear a short passage, then follow each direction by tapping a card and tapping where it goes.
 
+## Set 2
+A second full set of seven lessons in the same formats, with new topics: weather, food, school things and clothes; daily-life sentences; kitchen and weather tools, plant parts, frogs and toads; a recycling project and a first job; school uniforms and a four-day week; the water cycle; the Mississippi River and sea turtles. Live at https://radan55.github.io/Elpa21practice01/set2/
+
 ## Supports
 Slow voice, Show text, Show words, instant feedback with retry, first-try score per item.
 
